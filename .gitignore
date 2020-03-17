@@ -1,0 +1,9 @@
+*.pyc
+*~
+__pycache__
+venv
+/media
+db.sqlite3
+/static
+.DS_Store
+/.idea

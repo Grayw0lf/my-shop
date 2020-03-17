@@ -7,7 +7,7 @@ celery==4.3.0
 cffi==1.13.0
 cssselect2==0.2.2
 defusedxml==0.6.0
-Django==2.2.6
+Django==2.2.10
 django-debug-toolbar==2.0
 dnspython==1.16.0
 eventlet==0.25.1

@@ -10,7 +10,7 @@ defusedxml==0.6.0
 Django==2.2.6
 django-debug-toolbar==2.0
 dnspython==1.16.0
-eventlet==0.25.1
+eventlet==0.31.0
 flower==0.9.3
 greenlet==0.4.15
 html5lib==1.0.1
